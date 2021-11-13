@@ -1,0 +1,10 @@
+{
+    "id": "L-project",
+    "name": "云开发项目框架",
+    "version": "1.0.0",
+    "description": "云开发项目框架",
+    "keywords": [
+        "基础框架",
+        "快速开发"
+    ]
+}

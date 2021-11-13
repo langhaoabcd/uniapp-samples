@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "统计",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "u-form-item": "/uview-ui/components/u-form-item/u-form-item"
+  }
+}

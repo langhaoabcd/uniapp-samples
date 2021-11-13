@@ -1,0 +1,18 @@
+
+.col_greed {
+		color: #18B566;
+}
+.col_red {
+		color: red;
+}
+
+	/* 	.list {
+		
+	} */
+.d_f {
+		padding: 30rpx;
+		display: flex;
+		justify-content: space-between;
+		border-bottom: 1rpx solid #f6f6f6;
+}
+

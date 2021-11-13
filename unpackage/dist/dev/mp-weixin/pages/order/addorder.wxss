@@ -1,0 +1,8 @@
+
+.btn{
+	margin-top: 100rpx;
+}
+.main{
+	padding: 30rpx;
+}
+

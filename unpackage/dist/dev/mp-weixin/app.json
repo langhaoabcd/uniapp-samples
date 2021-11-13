@@ -1,0 +1,50 @@
+{
+  "pages": [
+    "pages/order/index",
+    "pages/order/addorder",
+    "pages/order/detail",
+    "pages/order/edit",
+    "pages/my/address/index",
+    "pages/my/address/addSite",
+    "pages/tj/tj",
+    "pages/login/login",
+    "pages/my/my",
+    "pages/my/project",
+    "pages/my/log/log"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "物料管理",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#7A7E83",
+    "selectedColor": "#43ccf7",
+    "borderStyle": "black",
+    "backgroundColor": "#000000",
+    "list": [
+      {
+        "pagePath": "pages/tj/tj",
+        "iconPath": "static/ioc/tj.png",
+        "selectedIconPath": "static/ioc/tj_a.png",
+        "text": "统计"
+      },
+      {
+        "pagePath": "pages/order/index",
+        "iconPath": "static/ioc/ru.png",
+        "selectedIconPath": "static/ioc/ru_a.png",
+        "text": "订单装车"
+      },
+      {
+        "pagePath": "pages/my/my",
+        "iconPath": "static/ioc/my.png",
+        "selectedIconPath": "static/ioc/my_a.png",
+        "text": "我的"
+      }
+    ]
+  },
+  "usingComponents": {},
+  "sitemapLocation": "sitemap.json"
+}

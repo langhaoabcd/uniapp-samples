@@ -1,0 +1,21 @@
+
+.btn {
+	width: 300rpx;
+}
+.btn_main {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+	width: 100%;
+	padding: 10rpx;
+}
+.header {
+	height: 260rpx;
+	display: flex;
+	flex-direction: column;
+	width: 100%;
+	justify-content: center;
+	align-items: center;
+}
+
